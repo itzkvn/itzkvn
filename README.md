@@ -6,9 +6,9 @@
 
 <br />
 
-[![devops culture](https://img.shields.io/badge/-DevOps%20Culture-black)]() [![automation](https://img.shields.io/badge/-%C2%A1AUTOMATE%20ALL%20THE%20THINGS!-black)]()
+[![devops culture](https://img.shields.io/badge/-DevOps%20Culture-black)](https://www.jeffgeerling.com/blog/2019/real-world-devops) [![automation](https://img.shields.io/badge/-%C2%A1AUTOMATE%20ALL%20THE%20THINGS!-black)](https://automatetheboringstuff.com/)
 
-[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]() [![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.youtube.com/watch?v=wf-BqAjZb8M) [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/luong-komorebi/Awesome-Linux-Software) [![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/donnemartin/awesome-aws)
 
 ---
 
