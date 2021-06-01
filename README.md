@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hoQLrSqAL3mV2/giphy.gif" width="30px">
 
-:office: DevOps Engineer @ **redbee studios**
+:office: DevOps Engineer @ **Patagonian**
 
 :earth_americas: From Buenos Aires, Argentina 🇦🇷
 
